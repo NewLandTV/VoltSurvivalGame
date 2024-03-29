@@ -1,4 +1,4 @@
-# **Introduction(소개)
+# **Introduction(소개)**
 
 VSG는 볼트 서바이벌 게임입니다.
 
